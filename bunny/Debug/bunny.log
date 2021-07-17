@@ -1,0 +1,25 @@
+﻿  glad.c
+  main.cpp
+C:\Users\jin0805\Desktop\Bunny1\bunny\shader.h(56,40): warning C4101: “e”: 未引用的局部变量
+C:\Users\jin0805\Desktop\Bunny1\bunny\main.cpp(226,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jin0805\Desktop\Bunny1\bunny\main.cpp(265,56): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jin0805\Desktop\Bunny1\bunny\main.cpp(266,59): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jin0805\Desktop\Bunny1\bunny\main.cpp(274,56): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jin0805\Desktop\Bunny1\bunny\main.cpp(433,14): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\jin0805\Desktop\Bunny1\bunny\main.cpp(434,14): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\jin0805\Desktop\Bunny1\bunny\main.cpp(437,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jin0805\Desktop\Bunny1\bunny\main.cpp(438,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jin0805\Desktop\Bunny1\bunny\main.cpp(443,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jin0805\Desktop\Bunny1\bunny\main.cpp(444,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jin0805\Desktop\Bunny1\bunny\main.cpp(445,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jin0805\Desktop\Bunny1\bunny\main.cpp(446,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jin0805\Desktop\Bunny1\bunny\main.cpp(453,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jin0805\Desktop\Bunny1\bunny\main.cpp(465,29): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\jin0805\Desktop\Bunny1\bunny\main.cpp(468,27): warning C4018: “<”: 有符号/无符号不匹配
+  parser.cpp
+C:\Users\jin0805\Desktop\Bunny1\bunny\parser.cpp(16,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\jin0805\Desktop\Bunny1\bunny\parser.cpp(19,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\jin0805\Desktop\Bunny1\bunny\parser.cpp(30,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\jin0805\Desktop\Bunny1\bunny\parser.cpp(34,22): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  bunny.vcxproj -> C:\Users\jin0805\Desktop\Bunny1\Debug\bunny.exe
