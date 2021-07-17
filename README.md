@@ -2,7 +2,6 @@
 
 ## Author:TerenceStark
 
-## StuID:2183411101
 
 
 
